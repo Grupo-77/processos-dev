@@ -38,6 +38,6 @@ Se tem uma ideia para uma nova funcionalidade que gostaria de ver no App Process
 
 ## Contacto
 
-Se tiver alguma dúvida ou precisar de ajuda, sinta-se à vontade para nos contactar através de [pedro.cavalheiro@escoteiros.pt] ou crie um issue no GitHub.
+Se tiver alguma dúvida ou precisar de ajuda, sinta-se à vontade para nos contactar através de pedro.cavalheiro@escoteiros.pt ou crie um issue no GitHub.
 
 Obrigado por contribuir!
