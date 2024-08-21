@@ -39,7 +39,7 @@ assignees: PedroCavalheiro
 - **Método de Autenticação**:
   - [ ] Google
   - [ ] Email e Senha
-  - [ ] QR Code
+  - [ ] QR Code / Link
 
 - **Ambiente**:
   - **Sistema Operativo**: [por exemplo, Windows 10, macOS Big Sur, Android 11, etc.]
